@@ -7,8 +7,6 @@
   border-radius: 30px;
 }
 
-
-
 body {
   display: flex;
   justify-content: center;
@@ -31,4 +29,25 @@ body {
   width: 100%;
   max-width: 420px;
   margin: 1em;
+}
+
+#WeatherInfoBox {
+  padding: 30px;
+  background: #aaa3a3;
+  display: inline;
+  margin: 2em;
+  color: white;
+  font-size: 10px;
+  border-radius: 30px;
+}
+
+.AttractionInfoBox {
+  padding: 30px;
+  display: inline;
+  float: left;
+  background: #aaa3a3;
+  margin: 2em;
+  color: white;
+  font-size: 10px;
+  border-radius: 30px;
 }
